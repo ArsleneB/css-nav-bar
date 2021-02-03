@@ -1,0 +1,46 @@
+nav{
+	width: 101.82%;
+	height: 100px;
+	background-color: white;opacity: 0.5;
+	display: flex;
+    margin-top: -20px;
+    margin-left: -20px;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+
+li a{
+	list-style: none;
+	text-decoration: none;
+	color: black;
+	font-family: fantasy;
+	font-size: 25px;
+
+}
+
+ul li{
+	display: inline;
+	padding: 120px;
+}
+
+
+
+li a:hover{
+	color: #1fde48;
+	transition: 0.6s;
+}
+
+
+
+
+p{
+	font-size: 35px;
+	font-weight: 800;
+	font-family: courier;
+	margin-right: 280px;
+
+}
+
+
